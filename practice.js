@@ -9,6 +9,7 @@
 //Create a variable called myAge that is a number data type
 
 //Code here
+bdjfjhjhfjfg
 
 //////////////////PROBLEM 3////////////////////
 
