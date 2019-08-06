@@ -99,17 +99,15 @@ function nameCheck(name){
 
 //Code Here
 function add(x, y){
-return x+y
+return (x+y)
 }
 //Now invoke add, passing in the numbers 3 and 4
 //storing the result in the variable mathSum.
 
 //Code Here
  
-function add(x =3 , y =4){
-  var mathSum = x + y
-  return mathSum
-} 
+var mathSum = (3 + 4) 
+
 
 //////////////////PROBLEM 12////////////////////
 
